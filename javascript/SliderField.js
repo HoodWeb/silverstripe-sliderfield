@@ -30,6 +30,7 @@
 						value: val,
 						min: self.getMin(),
 						max: self.getMax(),
+						step: 0.1,
 						slide: function( event, ui ) {
 							self.val( ui.value );
 						}
