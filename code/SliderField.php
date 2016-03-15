@@ -6,7 +6,7 @@
  * @author Damian Mooyman
  * @package sliderfield
  */
-class SliderField extends NumericField {
+class SliderField extends TextField {
 	
 	public function Type() {
 		return 'slider ' . parent::Type();
