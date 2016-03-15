@@ -1,6 +1,6 @@
 # SliderField for Silverstripe
 
-This module adds a SliderField that allows you to enter a numeric value with a draggable widget
+This module adds a SliderField that allows you to enter a numeric value with a draggable widget (A fork of tractorcow's module)
 
 ## Credits and Authors
 
